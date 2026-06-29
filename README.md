@@ -1,4 +1,4 @@
-CS 230 Software Design Document
+CS 230 Software Design 
 
 Project Overview
 
